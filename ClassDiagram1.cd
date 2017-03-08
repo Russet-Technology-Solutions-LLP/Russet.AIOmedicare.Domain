@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AIOmedicare.Domain.Base.DomainObject" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAQAAAAgAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Base\DomainObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Address" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAAQAAAgAAAAAIAAgAAAAAAAIAAAAhAQAABAAQAAA=</HashCode>
+      <FileName>Domain\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Contact" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAAQAAAAAgAAAAAEgAAAQAAAAAAAAgAQAAAAAAAAA=</HashCode>
+      <FileName>Domain\Contact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.ContactType" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\ContactType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Customer" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAABAAAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Permission" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Domain\Permission.cs</FileName>
+      <NewMemberFileName>Domain\Permission - Copy.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Person" Collapsed="true">
+    <Position X="18" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAFAADAAABcAAGEgQAIAAIAAQAAAAAAAAAAAAAEg=</HashCode>
+      <FileName>Domain\Person.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Employee.Employee" Collapsed="true">
+    <Position X="14.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAgAAAAAAAAgAAABBAAAAQAAAAAAA=</HashCode>
+      <FileName>Domain\Employee\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Employee.Role" Collapsed="true">
+    <Position X="22.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAgAAAAAAgAAAQACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Employee\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Employee.User" Collapsed="true">
+    <Position X="14.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAIAAAAAAAgAAAAABAAQQAAAABAAAA=</HashCode>
+      <FileName>Domain\Employee\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Employee.UserLog" Collapsed="true">
+    <Position X="26.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAAAAAAAAAAAAAgAAAgAAAAAAAAAABAACAAAAAA=</HashCode>
+      <FileName>Domain\Employee\UserLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Doctor.Doctor" Collapsed="true">
+    <Position X="19.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Doctor\Doctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Doctor.DoctorCommission" Collapsed="true">
+    <Position X="24.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAQA=</HashCode>
+      <FileName>Domain\Doctor\DoctorCommission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Doctor.DoctorCommissionType" Collapsed="true">
+    <Position X="40.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Doctor\DoctorCommissionType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Doctor.DoctorDepartment" Collapsed="true">
+    <Position X="29.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Doctor\DoctorDepartment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Doctor.DoctorFees" Collapsed="true">
+    <Position X="34" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAEAAAAgAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Domain\Doctor\DoctorFees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Doctor.InDoctor" Collapsed="true">
+    <Position X="21.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAADAAAAAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Doctor\InDoctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Doctor.OutDoctor" Collapsed="true">
+    <Position X="18.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Doctor\OutDoctor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Patient.Patient" Collapsed="true">
+    <Position X="24.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Patient\Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Patient.BloodGroup" Collapsed="true">
+    <Position X="35.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Domain\Patient\BloodGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.Patient.PatientRegistration" Collapsed="true">
+    <Position X="31.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Patient\PatientRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.MaritalStatus" Collapsed="true">
+    <Position X="20" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAgAAAAAAgAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\MaritalStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AIOmedicare.Domain.Domain.PersonSex" Collapsed="true">
+    <Position X="38" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAgAAAAAAgAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\PersonSex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
