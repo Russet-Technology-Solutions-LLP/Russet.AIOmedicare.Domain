@@ -2,10 +2,8 @@
 using System.Linq;
 using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
 using AIOmedicare.Domain.Domain.Patient;
-using AIOmedicare.Domain.Domain.Doctor;
-using AIOmedicare.Domain.Domain.Billing;
 
-namespace AIOmedicare.Domain.Domain.Employee
+namespace Russet.AIOmedicare.Domain.Domain.Employee
 {
     public class User : Employee
     {

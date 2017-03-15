@@ -1,7 +1,7 @@
 ﻿ using System.Collections.Generic;
 using System.Linq;
 
-namespace AIOmedicare.Domain.Domain
+namespace Russet.AIOmedicare.Domain.Domain
 {
     public sealed class Customer : Person
     {

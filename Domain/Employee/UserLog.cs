@@ -1,7 +1,7 @@
 ﻿using System;
-using AIOmedicare.Domain.Base;
+using Russet.AIOmedicare.Domain.Base;
 
-namespace AIOmedicare.Domain.Domain.Employee
+namespace Russet.AIOmedicare.Domain.Domain.Employee
 {
     public class UserLog : DomainObject
     {

@@ -1,8 +1,8 @@
-﻿using AIOmedicare.Domain.Base;
+﻿using Russet.AIOmedicare.Domain.Base;
 using System;
 using System.Collections.Generic;
 
-namespace AIOmedicare.Domain.Domain.Doctor
+namespace Russet.AIOmedicare.Domain.Domain.Doctor
 {
     public class DoctorCommission : DomainObject
     {

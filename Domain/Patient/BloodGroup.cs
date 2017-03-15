@@ -1,7 +1,7 @@
-﻿using AIOmedicare.Domain.Base;
-using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
+﻿using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
+using Russet.AIOmedicare.Domain.Base;
 
-namespace AIOmedicare.Domain.Domain.Patient
+namespace Russet.AIOmedicare.Domain.Domain.Patient
 {
     public class BloodGroup : DomainObject
     {

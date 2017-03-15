@@ -1,8 +1,7 @@
-﻿using AIOmedicare.Domain.Base;
-using AIOmedicare.Domain.Domain.Employee;
+﻿using Russet.AIOmedicare.Domain.Base;
 using System;
 
-namespace AIOmedicare.Domain.Domain.Patient
+namespace Russet.AIOmedicare.Domain.Domain.Patient
 {
     public class PatientRegistration : DomainObject
     {

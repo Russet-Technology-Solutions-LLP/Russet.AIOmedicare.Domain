@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AIOmedicare.Domain.Domain.Doctor
+namespace Russet.AIOmedicare.Domain.Domain.Doctor
 {
     public class Doctor : Person
     {

@@ -1,8 +1,8 @@
-﻿using AIOmedicare.Domain.Base;
-using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
+﻿using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
+using Russet.AIOmedicare.Domain.Base;
 using System.Collections.Generic;
 
-namespace AIOmedicare.Domain.Domain
+namespace Russet.AIOmedicare.Domain.Domain
 {
     public class MaritalStatus : DomainObject
     {
