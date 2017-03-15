@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
 using Microsoft.Practices.EnterpriseLibrary.Validation;
 
-namespace AIOmedicare.Domain.Base
+namespace Russet.AIOmedicare.Domain.Base
 {
     /// <summary>
     /// The basic Domain Object.

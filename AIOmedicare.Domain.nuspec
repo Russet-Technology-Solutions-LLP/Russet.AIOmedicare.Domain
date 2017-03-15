@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Russet.AIOmedicare.Domain</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Sandeep Sihari</authors>
+    <owners>Russet Technology Solutions LLP</owners>
+    <licenseUrl>https://github.com/Russet-Technology-Solutions-LLP/Russet.AIOmedicare.Domain/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Russet-Technology-Solutions-LLP/Russet.AIOmedicare.Domain</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Domain model utility for different types of medical institutions.</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>domain medical all-in-one russet</tags>
+  </metadata>
+</package>

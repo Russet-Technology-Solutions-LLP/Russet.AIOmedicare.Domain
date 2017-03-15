@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using AIOmedicare.Domain.Base;
 using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
 using System.ComponentModel;
+using Russet.AIOmedicare.Domain.Base;
 
-namespace AIOmedicare.Domain.Domain
+namespace Russet.AIOmedicare.Domain.Domain
 {
     public abstract class Person: DomainObject ,IDataErrorInfo
     {

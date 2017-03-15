@@ -1,10 +1,10 @@
-﻿using AIOmedicare.Domain.Base;
-using AIOmedicare.Domain.Domain.Billing;
-using AIOmedicare.Domain.Domain.Doctor;
+﻿using Russet.AIOmedicare.Domain.Base;
+using Russet.AIOmedicare.Domain.Domain.Billing;
+using Russet.AIOmedicare.Domain.Domain.Doctor;
 using System;
 using System.Collections.Generic;
 
-namespace AIOmedicare.Domain.Domain.Service
+namespace Russet.AIOmedicare.Domain.Domain.Service
 {
     public class Service : DomainObject
     {

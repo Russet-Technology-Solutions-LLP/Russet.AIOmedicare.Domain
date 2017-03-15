@@ -1,9 +1,9 @@
-﻿using AIOmedicare.Domain.Base;
-using AIOmedicare.Domain.Domain.Billing;
+﻿using Russet.AIOmedicare.Domain.Base;
+using Russet.AIOmedicare.Domain.Domain.Billing;
 using System;
 using System.Collections.Generic;
 
-namespace AIOmedicare.Domain.Domain.Doctor
+namespace Russet.AIOmedicare.Domain.Domain.Doctor
 {
     public class DoctorFees : DomainObject
     {

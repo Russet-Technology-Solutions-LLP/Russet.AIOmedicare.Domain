@@ -1,7 +1,7 @@
-﻿using AIOmedicare.Domain.Base;
+﻿using Russet.AIOmedicare.Domain.Base;
 using System.Collections.Generic;
 
-namespace AIOmedicare.Domain.Domain.Patient
+namespace Russet.AIOmedicare.Domain.Domain.Patient
 {
     public class PatientType : DomainObject
     {

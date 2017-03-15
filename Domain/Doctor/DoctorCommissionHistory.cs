@@ -1,8 +1,8 @@
-﻿using AIOmedicare.Domain.Base;
-using AIOmedicare.Domain.Domain.Employee;
+﻿using Russet.AIOmedicare.Domain.Base;
+using Russet.AIOmedicare.Domain.Domain.Employee;
 using System;
 
-namespace AIOmedicare.Domain.Domain.Doctor
+namespace Russet.AIOmedicare.Domain.Domain.Doctor
 {
     public class DoctorCommissionHistory : DomainObject
     {

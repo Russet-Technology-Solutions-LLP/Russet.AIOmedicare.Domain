@@ -1,8 +1,8 @@
 ﻿using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
-using AIOmedicare.Domain.Base;
 using System.Collections.Generic;
+using Russet.AIOmedicare.Domain.Base;
 
-namespace AIOmedicare.Domain.Domain.Employee
+namespace Russet.AIOmedicare.Domain.Domain.Employee
 {
     public class Role : DomainObject
     {

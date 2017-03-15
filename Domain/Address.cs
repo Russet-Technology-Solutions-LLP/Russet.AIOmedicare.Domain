@@ -1,8 +1,8 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-using AIOmedicare.Domain.Base;
+using Russet.AIOmedicare.Domain.Base;
 
-namespace AIOmedicare.Domain.Domain
+namespace Russet.AIOmedicare.Domain.Domain
 {
     public class Address : DomainObject
     {

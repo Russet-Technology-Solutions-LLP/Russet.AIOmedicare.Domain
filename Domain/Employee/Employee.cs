@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
 
-namespace AIOmedicare.Domain.Domain.Employee
+namespace Russet.AIOmedicare.Domain.Domain.Employee
 {
     public class Employee : Person
     {

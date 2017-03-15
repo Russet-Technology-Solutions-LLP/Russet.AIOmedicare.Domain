@@ -1,11 +1,6 @@
-﻿using AIOmedicare.Domain.Base;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Russet.AIOmedicare.Domain.Base;
 
-namespace AIOmedicare.Domain.Domain.Patient
+namespace Russet.AIOmedicare.Domain.Domain.Patient
 {
     public class PatientVisit : DomainObject
     {

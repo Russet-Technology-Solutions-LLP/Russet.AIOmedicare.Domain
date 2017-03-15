@@ -1,10 +1,10 @@
-﻿using AIOmedicare.Domain.Domain.Billing;
-using AIOmedicare.Domain.Domain.Doctor;
-using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
+﻿using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
+using Russet.AIOmedicare.Domain.Domain.Billing;
+using Russet.AIOmedicare.Domain.Domain.Doctor;
 using System;
 using System.Collections.Generic;
 
-namespace AIOmedicare.Domain.Domain.Patient
+namespace Russet.AIOmedicare.Domain.Domain.Patient
 {
     public class Patient : Person
     {

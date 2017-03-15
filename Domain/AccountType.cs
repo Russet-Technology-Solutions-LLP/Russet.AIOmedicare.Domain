@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using AIOmedicare.Domain.Base;
+﻿using System.Collections.Generic;
+using Russet.AIOmedicare.Domain.Base;
 
-namespace AIOmedicare.Domain.Domain
+namespace Russet.AIOmedicare.Domain.Domain
 {
     public class AccountType : DomainObject
     {
