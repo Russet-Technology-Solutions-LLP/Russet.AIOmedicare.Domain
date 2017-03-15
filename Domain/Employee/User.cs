@@ -1,7 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
-using AIOmedicare.Domain.Domain.Patient;
+using Russet.AIOmedicare.Domain.Domain.Patient;
+using Russet.AIOmedicare.Domain.Domain.Doctor;
+using Russet.AIOmedicare.Domain.Domain.Billing;
 
 namespace Russet.AIOmedicare.Domain.Domain.Employee
 {

@@ -1,4 +1,5 @@
 ﻿using Russet.AIOmedicare.Domain.Base;
+using Russet.AIOmedicare.Domain.Domain.Billing;
 using System;
 using System.Collections.Generic;
 

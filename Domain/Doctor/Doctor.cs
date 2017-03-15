@@ -1,4 +1,4 @@
-﻿using AIOmedicare.Domain.Domain.Patient;
+﻿using Russet.AIOmedicare.Domain.Domain.Patient;
 using System;
 using System.Collections.Generic;
 using System.Linq;

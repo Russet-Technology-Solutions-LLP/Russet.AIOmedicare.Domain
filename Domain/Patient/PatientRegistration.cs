@@ -1,4 +1,5 @@
 ﻿using Russet.AIOmedicare.Domain.Base;
+using Russet.AIOmedicare.Domain.Domain.Employee;
 using System;
 
 namespace Russet.AIOmedicare.Domain.Domain.Patient

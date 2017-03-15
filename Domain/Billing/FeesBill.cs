@@ -1,6 +1,6 @@
-﻿using AIOmedicare.Domain.Domain.Doctor;
-using AIOmedicare.Domain.Domain.Employee;
-using Russet.AIOmedicare.Domain.Base;
+﻿using Russet.AIOmedicare.Domain.Base;
+using Russet.AIOmedicare.Domain.Domain.Doctor;
+using Russet.AIOmedicare.Domain.Domain.Employee;
 using System;
 using System.Collections.Generic;
 

@@ -1,4 +1,6 @@
 ﻿using Microsoft.Practices.EnterpriseLibrary.Validation.Validators;
+using Russet.AIOmedicare.Domain.Domain.Billing;
+using Russet.AIOmedicare.Domain.Domain.Doctor;
 using System;
 using System.Collections.Generic;
 
